@@ -1,0 +1,29 @@
+dependencies: \
+  /Users/hasaxena/colorado/demoproject/node_modules/react-native/React/DevSupport/RCTPackagerConnection.m \
+  /Users/hasaxena/colorado/demoproject/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
+  /Users/hasaxena/colorado/demoproject/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/hasaxena/colorado/demoproject/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/hasaxena/colorado/demoproject/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/hasaxena/colorado/demoproject/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/hasaxena/colorado/demoproject/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/hasaxena/colorado/demoproject/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/hasaxena/colorado/demoproject/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/hasaxena/colorado/demoproject/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/hasaxena/colorado/demoproject/node_modules/react-native/React/Base/RCTBundleURLProvider.h \
+  /Users/hasaxena/colorado/demoproject/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/hasaxena/colorado/demoproject/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/hasaxena/colorado/demoproject/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/hasaxena/colorado/demoproject/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/hasaxena/colorado/demoproject/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/hasaxena/colorado/demoproject/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/hasaxena/colorado/demoproject/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/hasaxena/colorado/demoproject/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/hasaxena/colorado/demoproject/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/hasaxena/colorado/demoproject/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/hasaxena/colorado/demoproject/node_modules/react-native/React/../Libraries/WebSocket/RCTReconnectingWebSocket.h \
+  /Users/hasaxena/colorado/demoproject/node_modules/react-native/React/../Libraries/WebSocket/RCTSRWebSocket.h \
+  /Users/hasaxena/colorado/demoproject/node_modules/react-native/React/DevSupport/RCTPackagerConnectionBridgeConfig.h \
+  /Users/hasaxena/colorado/demoproject/node_modules/react-native/React/DevSupport/RCTPackagerConnectionConfig.h \
+  /Users/hasaxena/colorado/demoproject/node_modules/react-native/React/DevSupport/RCTReloadPackagerMethod.h \
+  /Users/hasaxena/colorado/demoproject/node_modules/react-native/React/DevSupport/RCTPackagerClient.h \
+  /Users/hasaxena/colorado/demoproject/node_modules/react-native/React/DevSupport/RCTSamplingProfilerPackagerMethod.h

@@ -1,0 +1,28 @@
+dependencies: \
+  /Users/hasaxena/colorado/demoproject/node_modules/react-native/React/Base/RCTModuleMethod.mm \
+  /Users/hasaxena/colorado/demoproject/node_modules/react-native/React/Base/RCTModuleMethod.h \
+  /Users/hasaxena/colorado/demoproject/node_modules/react-native/React/Base/RCTBridgeMethod.h \
+  /Users/hasaxena/colorado/demoproject/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/hasaxena/colorado/demoproject/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/hasaxena/colorado/demoproject/node_modules/react-native/React/Base/RCTNullability.h \
+  /Users/hasaxena/colorado/demoproject/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/hasaxena/colorado/demoproject/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/hasaxena/colorado/demoproject/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/hasaxena/colorado/demoproject/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/hasaxena/colorado/demoproject/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/hasaxena/colorado/demoproject/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/hasaxena/colorado/demoproject/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/hasaxena/colorado/demoproject/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/hasaxena/colorado/demoproject/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/hasaxena/colorado/demoproject/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/hasaxena/colorado/demoproject/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/hasaxena/colorado/demoproject/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/hasaxena/colorado/demoproject/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/hasaxena/colorado/demoproject/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/hasaxena/colorado/demoproject/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/hasaxena/colorado/demoproject/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/hasaxena/colorado/demoproject/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/hasaxena/colorado/demoproject/node_modules/react-native/React/Base/RCTCxxConvert.h \
+  /Users/hasaxena/colorado/demoproject/node_modules/react-native/React/Base/RCTManagedPointer.h \
+  /Users/hasaxena/colorado/demoproject/node_modules/react-native/React/Base/RCTParserUtils.h \
+  /Users/hasaxena/colorado/demoproject/node_modules/react-native/React/Profiler/RCTProfile.h

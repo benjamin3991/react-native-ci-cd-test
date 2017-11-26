@@ -1,0 +1,31 @@
+dependencies: \
+  /Users/hasaxena/colorado/demoproject/node_modules/react-native/React/Base/RCTRootContentView.m \
+  /Users/hasaxena/colorado/demoproject/node_modules/react-native/React/Base/RCTRootContentView.h \
+  /Users/hasaxena/colorado/demoproject/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/hasaxena/colorado/demoproject/node_modules/react-native/React/Base/RCTRootView.h \
+  /Users/hasaxena/colorado/demoproject/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/hasaxena/colorado/demoproject/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/hasaxena/colorado/demoproject/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/hasaxena/colorado/demoproject/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/hasaxena/colorado/demoproject/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/hasaxena/colorado/demoproject/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/hasaxena/colorado/demoproject/node_modules/react-native/React/Views/RCTView.h \
+  /Users/hasaxena/colorado/demoproject/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/hasaxena/colorado/demoproject/node_modules/react-native/React/Views/RCTComponent.h \
+  /Users/hasaxena/colorado/demoproject/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/hasaxena/colorado/demoproject/node_modules/react-native/React/Base/RCTPerformanceLogger.h \
+  /Users/hasaxena/colorado/demoproject/node_modules/react-native/React/Base/RCTRootViewInternal.h \
+  /Users/hasaxena/colorado/demoproject/node_modules/react-native/React/Base/RCTTouchHandler.h \
+  /Users/hasaxena/colorado/demoproject/node_modules/react-native/React/Modules/RCTUIManager.h \
+  /Users/hasaxena/colorado/demoproject/node_modules/react-native/React/Views/RCTViewManager.h \
+  /Users/hasaxena/colorado/demoproject/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/hasaxena/colorado/demoproject/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/hasaxena/colorado/demoproject/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/hasaxena/colorado/demoproject/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/hasaxena/colorado/demoproject/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/hasaxena/colorado/demoproject/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/hasaxena/colorado/demoproject/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/hasaxena/colorado/demoproject/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/hasaxena/colorado/demoproject/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/hasaxena/colorado/demoproject/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/hasaxena/colorado/demoproject/node_modules/react-native/React/Views/UIView+React.h
